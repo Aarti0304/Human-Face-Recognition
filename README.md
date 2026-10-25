@@ -76,5 +76,4 @@ Open the local URL displayed in the terminal.
 ## Privacy Note
 Use face images only with the permission of the people shown. Do not upload personal face datasets or sensitive biometric information to a public repository.
 
-## Project Purpose
-This project was developed for educational purposes as an engineering mini-project.
+ 
